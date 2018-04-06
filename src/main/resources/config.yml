@@ -1,0 +1,14 @@
+# MorphMining
+
+# Change the price of artifacts here!
+ArtifactPrice:
+  Common: 50.00
+  Rare: 250.00
+  Legendary: 750.00
+  Mythic: 2500.00
+
+# Change the crate open price here!
+CrateOpenCost:
+  PileOfRocks: 10.00
+  IronedOut: 20.00
+  MinersDream: 30.00
